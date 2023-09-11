@@ -16,4 +16,6 @@ class MainActivity : AppCompatActivity() {
             tvMain.text = "Some Other Text"
         }
     }
+
+    //Some redundant comment to demonstrate revert
 }
